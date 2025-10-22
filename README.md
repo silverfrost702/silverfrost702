@@ -7,7 +7,7 @@
 ## About Me  
 
 I'm a Data Science graduate student at the **University of Texas at Arlington**, passionate about applying data-driven methods to solve real-world problems.  
-My work integrates **statistical modeling, predictive analytics, and machine learning** to deliver actionable insights from complex datasets.  
+My work integrates **data visualization, statistical modeling, predictive analytics, and machine learning** to deliver actionable insights from complex datasets.  
 
 I enjoy building scalable models, visualizing insights effectively, and leveraging technology to bridge the gap between data and decision-making.  
 
@@ -20,7 +20,7 @@ Developed predictive models and data-driven insights for the INFORMS 2024 compet
 **Key Skills:** Feature Engineering, Model Optimization, Visualization  
 
 ### [HackUTA 7](https://github.com/silverfrost702/HACKUTA-7)  
-Built an AI-based application combining NLP and data visualization for real-time insight generation.  
+Built an AI-based application combining Google Gemini API with Supabase to get an end-to-end chatbot webpage for filling forms hassle-free.  
 **Key Skills:** Python, Flask, Streamlit, NLP  
 
 ### [SpaceX Launch Success Prediction](https://github.com/silverfrost702/Projects/tree/main/SpaceX_Launch_Success_Prediction)  
