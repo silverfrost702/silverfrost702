@@ -71,7 +71,7 @@ My long-term focus is on leveraging **AI and Data Science** to support data-driv
 
 ## Contact  
 
-📫 [LinkedIn](https://www.linkedin.com/in/anuva-negi/)  
-📧 [youremail@example.com](mailto:anuvanegi@gmail.com)
+📫 [LinkedIn: Anuva Negi](https://www.linkedin.com/in/anuva-negi/)  
+📧 [Contact: anuvanegi@gmail.com](mailto:anuvanegi@gmail.com)
 
 ---
