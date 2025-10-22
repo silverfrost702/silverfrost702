@@ -23,10 +23,6 @@ Developed predictive models and data-driven insights for the INFORMS 2024 compet
 Built an AI-based application combining NLP and data visualization for real-time insight generation.  
 **Key Skills:** Python, Flask, Streamlit, NLP  
 
-### [Credit Card Customer Churn Analysis](https://github.com/silverfrost702/Projects/tree/main/Credit_Card_Customer_Churn_Analysis)  
-Analyzed customer behavior and built machine learning models to predict churn likelihood.  
-**Key Skills:** Logistic Regression, Random Forest, EDA  
-
 ### [SpaceX Launch Success Prediction](https://github.com/silverfrost702/Projects/tree/main/SpaceX_Launch_Success_Prediction)  
 Predicted launch outcomes using historical SpaceX data and classification algorithms.  
 **Key Skills:** Data Visualization, Classification, Model Evaluation  
@@ -39,25 +35,15 @@ Explored industry-wide layoff data to identify hiring trends and economic patter
 
 ## Technical Skills  
 
-### Programming & Statistical Tools  
-Python, R, SQL, Perl  
+| **Category** | **Skills & Tools** |
+|---------------|--------------------|
+| 🧩 **Programming & Statistical Tools** | Python • R • SQL • Perl |
+| 🤖 **Machine Learning & Analytics** | Machine Learning • Deep Learning • Predictive Modeling • Statistical Modeling • Feature Engineering • Time Series Forecasting • Classification • Regression |
+| 📚 **Libraries & Frameworks** | Pandas • NumPy • Scikit-learn • XGBoost • TensorFlow • PyTorch • Matplotlib • Seaborn • Flask • Streamlit • SpeechRecognition • PyAudio • pyttsx3 |
+| 📊 **Data Visualization & BI** | Power BI • Tableau |
+| 🗄️ **Databases & Cloud** | Snowflake • MySQL • MongoDB • AWS |
+| ⚙️ **Workflow & Tools** | Airflow • Autosys • Git • JIRA • Confluence • VS Code |
 
-### Machine Learning & Analytics  
-Machine Learning, Deep Learning, Predictive Modeling, Statistical Modeling,  
-Feature Engineering, Time Series Forecasting, Classification, Regression  
-
-### Libraries & Frameworks  
-Pandas, NumPy, Scikit-learn, XGBoost, TensorFlow, PyTorch, Matplotlib, Seaborn,  
-Flask, Streamlit, SpeechRecognition, PyAudio, pyttsx3  
-
-### Data Visualization & BI  
-Power BI, Tableau  
-
-### Databases & Cloud  
-Snowflake, MySQL, MongoDB, AWS  
-
-### Workflow & Tools  
-Airflow, Autosys, Git, JIRA, Confluence, VS Code  
 
 ---
 
