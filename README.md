@@ -57,7 +57,7 @@ Explored industry-wide layoff data to identify hiring trends and economic patter
 
 ## Learning & Focus  
 
-I am currently expanding my expertise in **MLOps**, **Cloud-based Data Pipelines**, and **Advanced Predictive Modeling**.  
+I am currently expanding my expertise in **Data Science**, **Cloud-based Data Pipelines**, and **Advanced Predictive Modeling**.  
 My long-term focus is on leveraging **AI and Data Science** to support data-driven strategy and innovation.  
 
 ---
