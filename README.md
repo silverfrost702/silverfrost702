@@ -40,12 +40,12 @@ Developed an interactive Power BI dashboard to visualize Spotify streaming trend
 
 | **Category** | **Skills & Tools** |
 |---------------|--------------------|
-| 🧩 **Programming & Statistical Tools** | Python • R • SQL • Perl |
-| 🤖 **Machine Learning & Analytics** | Machine Learning • Deep Learning • Predictive Modeling • Statistical Modeling • Feature Engineering • Time Series Forecasting • Classification • Regression |
-| 📚 **Libraries & Frameworks** | Pandas • NumPy • Scikit-learn • XGBoost • TensorFlow • PyTorch • Matplotlib • Seaborn • Flask • Streamlit • SpeechRecognition • PyAudio • pyttsx3 |
-| 📊 **Data Visualization & BI** | Power BI • Tableau |
-| 🗄️ **Databases & Cloud** | Snowflake • MySQL • MongoDB • AWS |
-| ⚙️ **Workflow & Tools** | Airflow • Autosys • Git • JIRA • Confluence • VS Code |
+| **Programming & Statistical Tools** | Python • R • SQL • Perl |
+| **Machine Learning & Analytics** | Machine Learning • Deep Learning • Predictive Modeling • Statistical Modeling • Feature Engineering • Time Series Forecasting • Classification • Regression |
+| **Libraries & Frameworks** | Pandas • NumPy • Scikit-learn • XGBoost • TensorFlow • PyTorch • Matplotlib • Seaborn • Flask • Streamlit • SpeechRecognition • PyAudio • pyttsx3 |
+| **Data Visualization & BI** | Power BI • Tableau |
+| **Databases & Cloud** | Snowflake • MySQL • MongoDB • AWS |
+| **Workflow & Tools** | Airflow • Autosys • Git • JIRA • Confluence • VS Code |
 
 
 ---
