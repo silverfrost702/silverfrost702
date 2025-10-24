@@ -1,6 +1,6 @@
 # Hi, I'm Anuva Negi  
 
-### Data Scientist | MS in Data Science @ University of Texas at Arlington  
+### MS in Data Science @ University of Texas at Arlington  
 
 ---
 
@@ -30,6 +30,10 @@ Predicted launch outcomes using historical SpaceX data and classification algori
 ### [Tech Layoff Trends Analysis](https://github.com/silverfrost702/Projects/tree/main/tech_layoff_trends)  
 Explored industry-wide layoff data to identify hiring trends and economic patterns.  
 **Key Skills:** Data Analysis, Time Series, Reporting  
+
+### [Spotify Music Analysis Dashboard](https://github.com/silverfrost702/Projects/tree/main/Spotify%20Music%20Analysis)
+Developed an interactive Power BI dashboard to visualize Spotify streaming trends, artist performance, and track-level audio analytics.
+**Key Skills:** Power BI, Data Modeling, DAX, Data Visualization, Analytical Reporting
 
 ---
 
