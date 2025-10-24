@@ -6,8 +6,7 @@
 
 ## About Me  
 
-I'm a Data Science graduate student at the **University of Texas at Arlington**, passionate about applying data-driven methods to solve real-world problems.  
-My work integrates **data visualization, statistical modeling, predictive analytics, and machine learning** to deliver actionable insights from complex datasets.  
+I'm a Data Science graduate student at the **University of Texas at Arlington**, passionate about applying data-driven methods to solve real-world problems. My work integrates **data visualization, statistical modeling, predictive analytics, and machine learning** to deliver actionable insights from complex datasets.  
 
 I enjoy building scalable models, visualizing insights effectively, and leveraging technology to bridge the gap between data and decision-making.  
 
