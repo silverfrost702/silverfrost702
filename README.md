@@ -65,10 +65,18 @@ My long-term focus is on leveraging **AI and Data Science** to support data-driv
 
 ---
 
-## GitHub Overview  
+## 🧭 GitHub Overview  
 
-![Anuva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=silverfrost702&show_icons=true&theme=transparent&hide_title=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=silverfrost702&layout=compact&theme=transparent)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=silverfrost702&show_icons=true&theme=transparent&hide_title=true" alt="Anuva's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silverfrost702&layout=compact&theme=transparent" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
