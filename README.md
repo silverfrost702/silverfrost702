@@ -65,7 +65,7 @@ My long-term focus is on leveraging **AI and Data Science** to support data-driv
 
 ---
 
-## 🧭 GitHub Overview  
+## GitHub Overview  
 
 <table>
   <tr>
