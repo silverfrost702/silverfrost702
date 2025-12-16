@@ -14,14 +14,13 @@ I enjoy building scalable models, visualizing insights effectively, and leveragi
 
 ## Projects  
 
-### SmogCast: Air Quality Classification & Forecasting
+### [SmogCast: Air Quality Classification & Forecasting](https://github.com/silverfrost702/SmogCast-Predicting-and-Forecasting-Air-Quality-in-India) 
 Designed and deployed an end-to-end data science system for real-time AQI classification and 7-day PM2.5/PM10 forecasting across major Indian cities, leveraging machine learning and deep learning models. Delivered insights through an interactive Streamlit dashboard.  
 **Key Skills:** Machine Learning, Time Series Forecasting, Deep Learning, Streamlit, Feature Engineering, Data Visualization
 
-
-### [SmogCast: Air Quality Classification & Forecasting](https://github.com/silverfrost702/SmogCast-Predicting-and-Forecasting-Air-Quality-in-India) 
-Built an AI-based application combining Google Gemini API with Supabase to get an end-to-end chatbot webpage for filling forms hassle-free.  
-**Key Skills:** Python, Flask, Streamlit, NLP  
+### [HackUTA 7](https://github.com/silverfrost702/HACKUTA-7)
+Built an AI-based application combining Google Gemini API with Supabase to create an end-to-end chatbot webpage for hassle-free form filling.
+**Key Skills:** Python, Flask, Streamlit, NLP
 
 ### [SpaceX Launch Success Prediction](https://github.com/silverfrost702/Projects/tree/main/SpaceX_Launch_Success_Prediction)  
 Predicted launch outcomes using historical SpaceX data and classification algorithms.  
