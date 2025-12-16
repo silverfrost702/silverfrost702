@@ -19,7 +19,7 @@ Designed and deployed an end-to-end data science system for real-time AQI classi
 **Key Skills:** Machine Learning, Time Series Forecasting, Deep Learning, Streamlit, Feature Engineering, Data Visualization
 
 
-### [HackUTA 7](https://github.com/silverfrost702/HACKUTA-7)  
+### [SmogCast: Air Quality Classification & Forecasting](https://github.com/silverfrost702/SmogCast-Predicting-and-Forecasting-Air-Quality-in-India) 
 Built an AI-based application combining Google Gemini API with Supabase to get an end-to-end chatbot webpage for filling forms hassle-free.  
 **Key Skills:** Python, Flask, Streamlit, NLP  
 
