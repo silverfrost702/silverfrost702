@@ -14,9 +14,9 @@ I enjoy building scalable models, visualizing insights effectively, and leveragi
 
 ## Projects  
 
-### [INFORMS Data Challenge](https://github.com/silverfrost702/INFORMS---Data-Challenge)  
-Developed predictive models and data-driven insights for the INFORMS 2024 competition.  
-**Key Skills:** Feature Engineering, Model Optimization, Visualization  
+### [SmogCast: Air Quality Classification & Forecasting](https://github.com/silverfrost702/SmogCast-Predicting-and-Forecasting-Air-Quality-in-India)
+Built an end-to-end data science application to classify real-time air quality and forecast PM2.5/PM10 levels for major Indian cities using machine learning and deep learning models. Deployed an interactive Streamlit dashboard for real-time monitoring and 7-day forecasting.
+**Key Skills:** Machine Learning, Time Series Forecasting, Deep Learning, Streamlit, Feature Engineering, Data Visualization 
 
 ### [HackUTA 7](https://github.com/silverfrost702/HACKUTA-7)  
 Built an AI-based application combining Google Gemini API with Supabase to get an end-to-end chatbot webpage for filling forms hassle-free.  
